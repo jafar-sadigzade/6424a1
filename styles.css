@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+}
+
+h1, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+    display: inline;
+    color:rosybrown;
+    background-color: black;
+}
+
+h3 {
+    color: aqua;
+    background-color: brown;
+}
